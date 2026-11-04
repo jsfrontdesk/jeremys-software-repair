@@ -1,4 +1,4 @@
-# Jeremy's Software Repair — website
+# Jeremy's Software Repairs — website
 
 Plain static site (HTML/CSS, no build step).
 
